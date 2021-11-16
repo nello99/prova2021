@@ -20,6 +20,7 @@ public class ProvaGit2021 {
         System.out.println("Hello Liz");
         System.out.println("Hello Aniello");
         System.out.println("Hello Universe !");
+        salute("branch deleted");
     }
     
     
