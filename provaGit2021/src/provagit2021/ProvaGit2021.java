@@ -16,10 +16,15 @@ public class ProvaGit2021 {
      */
     public static void main(String[] args) {
         //First commit
-        System.out.println("Hello world !");
+        salute("world!");
         System.out.println("Hello Liz");
         System.out.println("Hello Aniello");
         System.out.println("Hello Universe !");
+    }
+    
+    
+    public static void salute(String s){
+        System.out.println("Hello " + s);
     }
     
 }
